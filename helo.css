@@ -1,0 +1,19 @@
+#signup-form{
+    width: 100%;
+    height: 200px;
+    color: rgb(6, 7, 7);
+    padding:30px 20px 20px;
+
+}
+.iron-man{
+  background-color:  #213179 ;
+}
+.thor{
+  background-color:#3f51b5  ;
+}
+.hulk{
+  background-color: #3f51b5 ;
+ }
+ .batman{
+  background-color: #3F729B;
+ }
